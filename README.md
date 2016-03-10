@@ -5,7 +5,7 @@
 ```
 ruby extconf.rb
 ```
-this will creake make file \
+this will creake make file <br>
 **then run make command to compile C classes**
 ```
 make 
